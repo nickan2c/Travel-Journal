@@ -1,3 +1,7 @@
+Created this project as part of a React Course, but personalised it a bit. 
+
+plans to expand- perhaps clicking on each card will flip it, and show more images of myself there.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
