@@ -1,5 +1,6 @@
 import React from 'react'
 import Card from './components/Card'
+import Navbar from './components/Navbar'
 import data from "./data"
 
 export default function App() {
@@ -13,7 +14,10 @@ export default function App() {
         
         )
   return (
-    <div>{items}</div>
+    <div>
+      <Navbar />
+      {items}
+    </div>
 
   )
 }
